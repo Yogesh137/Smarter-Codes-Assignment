@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+requests
+beautifulsoup4
+nltk
+sentence-transformers
+pymilvus==2.2.8
+milvus-lite
+python-dotenv
+playwright
